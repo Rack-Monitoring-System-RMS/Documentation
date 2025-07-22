@@ -14,4 +14,7 @@ Poles number: **2**<br>
 Single Master, Multi Slave (SMMS)
 
 Number of slaves: **32**
-Maximum power per slave: **100mW** (Typical) / **200mW** (Max)
+Maximum power per slave: **100mW** (Typical) / **200mW** (Max)<br>
+
+Connectors: ? **TBD**<br>
+Modulation: ? **TBD**<br>
