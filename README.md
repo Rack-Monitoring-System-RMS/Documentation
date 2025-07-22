@@ -19,6 +19,8 @@ Remote-Monitoring-System/
 │   │
 │   │── README.md   ⬅   You're here 🚩
 │   │
+│   │── LICENSE (Apache 2.0)
+│   │
 │   │── Architecture.md 📐
 │   │
 │   │── Interfaces Definitions/ 📡
