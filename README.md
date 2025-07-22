@@ -1,9 +1,6 @@
 # RMS Documentation
 
 <br>
-<br>
-<br>
-
 
 ## Project Tree Structure
 
@@ -72,7 +69,3 @@ Remote-Monitoring-System/
     │
     └── Coming soon... 🚧
 ```
-
-<br>
-<br>
-<br>
