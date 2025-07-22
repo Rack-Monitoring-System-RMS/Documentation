@@ -1,45 +1,86 @@
-RMS/<br>
-├── Documentation/<br>
-│   └── Architecture.md<br>
-│   ├── Readme.md <-- YOU ARE HERE!<br>
-│   ├── Interfaces/<br>
-│   │   ├── RMS-Bus/<br>
-│   │   │   └── Protocol.md<br>
-│   │   │   └── Transport.md<br>
-│   │   ├── Ethernet/<br>
-│   │   │   └── TCP.md<br>
-│   │   │   └── PoE.md<br>
-├── Masters/<br>
-│   ├── Device/<br>
-│   │   └── Board/<br>
-│   │   └── Firmware/<br>
-│   │   └── Mechanical/<br>
-│   ├── Dongle/<br>
-│   │   └── Board/<br>
-│   │   └── Firmware/<br>
-│   │   └── Mechanical/<br>
-├── Devices/<br>
-│   ├── Temperature-Sensor/<br>
-│   │   └── Board/<br>
-│   │   └── Firmware/<br>
-│   │   └── Mechanical/<br>
-│   ├── Fan-Manager/<br>
-│   │   └── Board/<br>
-│   │   └── Firmware/<br>
-│   │   └── Mechanical/<br>
-│   └── ...<br>
+# RMS Documentation
 
-# Documentation
+<br>
+<br>
+<br>
 
+
+## Project Tree Structure
+
+Where better place to start then a map? 🗺️
+
+<br>
+
+```
+Remote-Monitoring-System/
+│
+│
+│── Documentation/
+│   │
+│   │── README.md   ⬅   You're here 🚩
+│   │
+│   │── Architecture.md 📐
+│   │
+│   │── Interfaces Definitions/ 📡
+│   │   │
+│   │   │── RMS-Bus/
+│   │   │   │── Protocol.md
+│   │   │   └── Transport.md
+│   │   │
+│   │   └── Ethernet/
+│   │       └── TCP.md
+│   │       └── PoE.md
+│   │ 
+│   │── Masters
+│   │   │── Rack-Manager.md
+│   │   └── Debug-Dongle.md
+│   │
+│   └── Devices
+│       │── Temperature sensor.md
+│       │── Fan Manager.md
+│       └── Coming soon... 🚧
+│
+│
+│
+├── Masters/ 🖥️
+│   │
+│   ├── Rack-Manager/
+│   │   └── Board/
+│   │   └── Firmware/
+│   │   └── Mechanical/
+│   │
+│   └── Debug-Dongle/
+│       └── Board/
+│       └── Firmware/
+│       └── Mechanical/
+│
+│
+│
+└── Devices/
+    │
+    │── Temperature-Sensor/ 🌡️
+    │   └── Board/
+    │   └── Firmware/
+    │   └── Mechanical/
+    │
+    ├── Fan-Manager/ 🌪️
+    │   └── Board/
+    │   └── Firmware/
+    │   └── Mechanical/
+    │
+    └── Coming soon... 🚧
+```
+
+<br>
 <br>
 <br>
 
 ## What? Why?
 
 ### What?
-An open-source, out-of-the-box and plug-&-play system for rack cabinets monitoring.
+> An open-source, out-of-the-box and plug-&-play system for rack cabinets monitoring.
 
 <br>
 
 ### Why?
-The other open-source project are not as modular as we need it to be.
+> The other open-source project are not as modular as we need it to be.
