@@ -9,10 +9,10 @@ Where better place to start then a map? 🗺️
 <br>
 
 ```
-Remote-Monitoring-System/
+Remote-Monitoring-System/ 🕵🏻‍♂️
 │
 │
-│── Documentation/
+│── Documentation/ 📚
 │   │
 │   │── README.md   ⬅   You're here 🚩
 │   │
@@ -22,11 +22,11 @@ Remote-Monitoring-System/
 │   │
 │   │── Interfaces Definitions/ 📡
 │   │   │
-│   │   │── RMS-Bus/
+│   │   │── RMS-Bus/ ⚡
 │   │   │   │── Protocol.md
 │   │   │   └── Transport.md
 │   │   │
-│   │   └── Ethernet/
+│   │   └── Ethernet/ 💻
 │   │       └── TCP.md
 │   │       └── PoE.md
 │   │ 
@@ -41,7 +41,7 @@ Remote-Monitoring-System/
 │
 │
 │
-├── Masters/ 🖥️
+├── Masters/ 🧠
 │   │
 │   ├── Rack-Manager/
 │   │   └── Board/
@@ -55,7 +55,7 @@ Remote-Monitoring-System/
 │
 │
 │
-└── Devices/
+└── Devices/ 🤖
     │
     │── Temperature-Sensor/ 🌡️
     │   └── Board/
