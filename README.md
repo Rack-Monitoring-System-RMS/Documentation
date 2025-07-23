@@ -44,13 +44,13 @@ Remote-Monitoring-System/ 🕵🏻‍♂️
 ├── Masters/ 🧠
 │   │
 │   ├── Rack-Manager/
-│   │   └── Board/
-│   │   └── Firmware/
+│   │   │── Board/
+│   │   │── Firmware/
 │   │   └── Mechanical/
 │   │
 │   └── Debug-Dongle/
-│       └── Board/
-│       └── Firmware/
+│       │── Board/
+│       │── Firmware/
 │       └── Mechanical/
 │
 │
@@ -58,13 +58,13 @@ Remote-Monitoring-System/ 🕵🏻‍♂️
 └── Devices/ 🤖
     │
     │── Temperature-Sensor/ 🌡️
-    │   └── Board/
-    │   └── Firmware/
+    │   │── Board/
+    │   │── Firmware/
     │   └── Mechanical/
     │
     ├── Fan-Manager/ 🌪️
-    │   └── Board/
-    │   └── Firmware/
+    │   │── Board/
+    │   │── Firmware/
     │   └── Mechanical/
     │
     └── Coming soon... 🚧
