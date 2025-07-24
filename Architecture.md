@@ -3,10 +3,6 @@
 # RMS (Rack Monitoring System)
 
 <br>
-<br>
-<br>
-<br>
-<br>
 
 ## Index
 
@@ -21,10 +17,6 @@
 4. Slave device
 
 <br>
-<br>
-<br>
-<br>
-<br>
 
 ## 1. What? Why?
 
@@ -36,10 +28,6 @@ An open-source, out-of-the-box and plug-&-play system for rack cabinets monitori
 ### Why?
 The other open-source project are not as modular as we need it to be.
 
-<br>
-<br>
-<br>
-<br>
 <br>
 
 ## 2. Bus
@@ -69,12 +57,9 @@ Maximum power per slave: 100mW (Typical) / 200mW (Max)
 
 <br>
 
-
 Connectors: ? **TBD**<br>
 Modulation: ? **TBD**<br>
 
-
-<br>
 <br>
 
 ### 2.2. Protocol
@@ -91,20 +76,11 @@ Modulation: ? **TBD**<br>
     - Auxiliary Registers (e.g. Vendor-Specific Registers)
 
 <br>
-<br>
-<br>
-<br>
-<br>
 
 ## 3. Master / Dongle
 
 - Power from PoE (Power over Ethernet) or wall adapter
-- 
 
-<br>
-<br>
-<br>
-<br>
 <br>
 
 ## 4. Slave device
@@ -112,4 +88,3 @@ Modulation: ? **TBD**<br>
 - UID 32 bit, from factory or user-programmed
 - Logic domain receive power from bus (for mitigating power domain issues)
 - Other domains receive power externally
-- 
