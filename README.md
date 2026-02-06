@@ -23,15 +23,13 @@ Remote-Monitoring-System/ 🕵🏻‍♂️
 │   │── Interfaces Definitions/ 📡
 │   │   │
 │   │   │── RMS-Bus/ ⚡
-│   │   │   │── Protocol.md
-│   │   │   └── Transport.md
+│   │   │   └── RMS-Bus_Specifications.md
 │   │   │
 │   │   └── Ethernet/ 💻
-│   │       │── TCP.md
-│   │       └── PoE.md
+│   │       └── TCP_Protocol.md
 │   │ 
 │   │── Masters
-│   │   │── Rack-Manager.md
+│   │   │── Manager_Specifications.md
 │   │   └── Debug-Dongle.md
 │   │
 │   └── Devices
